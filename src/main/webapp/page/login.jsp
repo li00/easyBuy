@@ -3,13 +3,13 @@
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
 <title>易买网 - 首页</title>
-<link type="text/css" rel="stylesheet" href="/resources//css/style.css" />
-<script type="text/javascript" src="/resources//scripts/jquery-1.8.3.min.js"></script>
-<script type="text/javascript" src="/resources//scripts/function.js"></script>
+<link type="text/css" rel="stylesheet" href="/resources/css/style.css" />
+<script type="text/javascript" src="/resources/scripts/jquery-1.8.3.min.js"></script>
+<script type="text/javascript" src="/resources/scripts/function.js"></script>
 </head>
 <body>
 <div id="header" class="wrap">
-	<div id="logo"><img src="/resources//images/logo.gif" /></div>
+	<div id="logo"><img src="/resources/images/logo.gif" /></div>
 	<div class="help"><a href="shopping.jsp" class="shopping">购物车X件</a><a href="login.java">登录</a><a href="register.jsp">注册</a><a href="guestbook.jsp">留言</a><a href="manage/index.html">后台管理</a></div>
 	<div class="navbar">
 		<ul class="clearfix">
